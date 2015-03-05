@@ -1,0 +1,5 @@
+virtual-iridium (1.0-0) wheezy; urgency=low
+
+  * Initial release.
+
+ --  Toby Schneider <toby@gobysoft.org>  Thu, 05 Mar 2015 21:44:52 +0000
