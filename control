@@ -2,7 +2,7 @@ Source: virtual-iridium
 Section: python
 Priority: optional
 Maintainer: Toby Schneider <toby@gobysoft.org>
-Build-Depends: debhelper (>= 4.1.67), python (>= 2.6), python-support
+Build-Depends: cdbs, debhelper (>= 4.1.67), python (>= 2.6), python-support
 Standards-Version: 3.9.6
 XS-Python-Version: >= 2.6
 
