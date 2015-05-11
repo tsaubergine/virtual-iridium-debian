@@ -1,3 +1,9 @@
+virtual-iridium (1.0.5-1) wheezy; urgency=low
+
+  * Fixes to make it more like the real deal.
+
+ -- Toby Schneider <toby@gobysoft.org>  Wed, 22 Apr 2015 14:17:50 -0400
+
 virtual-iridium (1.0.2-0) wheezy; urgency=low
 
   * Updated release
