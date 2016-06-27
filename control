@@ -2,12 +2,12 @@ Source: virtual-iridium
 Section: python
 Priority: optional
 Maintainer: Toby Schneider <toby@gobysoft.org>
-Build-Depends: cdbs, debhelper (>= 4.1.67), python (>= 2.6), python-support
+Build-Depends: cdbs, debhelper (>= 4.1.67), python (>= 2.6), dh-python
 Standards-Version: 3.9.6
 XS-Python-Version: >= 2.6
 
 Package: python-virtual-iridium
 Architecture: all
-Depends: ${python:Depends}, python2.6
+Depends: ${python:Depends}, python-serial
 Description: Python module for emulating Iridium SBD
 

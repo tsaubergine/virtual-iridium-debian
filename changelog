@@ -1,3 +1,9 @@
+virtual-iridium (1.0.6-1~ubuntu16.04.1) xenial; urgency=medium
+
+  * Build for 1.0.6
+
+ -- Toby Schneider <tes.aubergine@gmail.com>  Mon, 27 Jun 2016 12:32:59 -0400
+
 virtual-iridium (1.0.5-1) wheezy; urgency=low
 
   * Fixes to make it more like the real deal.
